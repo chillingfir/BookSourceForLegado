@@ -1,0 +1,49 @@
+[
+  {
+    "bookSourceComment": "可以看一些延迟更新的小说，但貌似使用的是ocr，会有错字",
+    "bookSourceGroup": "HY",
+    "bookSourceName": "新新笔趣读",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.xxbiqudu.com",
+    "bookUrlPattern": "",
+    "concurrentRate": "",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": false,
+    "exploreUrl": "",
+    "header": "",
+    "lastUpdateTime": 1652826511194,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "respondTime": 180000,
+    "ruleBookInfo": {
+      "author": "id.info.0@tag.p.0@text",
+      "coverUrl": "id.fmimg.0@tag.img.0@src",
+      "intro": "1d.intro.0@tag.p.0@text",
+      "lastChapter": "class.box_con.1@tag.dd.0@tag.a.0@href",
+      "name": "id.info.0@tag.h1.0@text"
+    },
+    "ruleContent": {
+      "content": "id.content.0@html",
+      "replaceRegex": "##恋上你看书网，|{{book.name}}|最新网址：|文学网"
+    },
+    "ruleExplore": {},
+    "ruleSearch": {
+      "author": "class.odd.1@text",
+      "bookList": "id.main.0@tag.tr",
+      "bookUrl": "class.odd.0@tag.a.0@href",
+      "lastChapter": "class.even.0@text",
+      "name": "tag.td.0@tag.a.0@text",
+      "wordCount": "class.even.1@text"
+    },
+    "ruleToc": {
+      "chapterList": "id.list.0@tag.dd",
+      "chapterName": "tag.a.0@text",
+      "chapterUrl": "tag.a.0@href"
+    },
+    "searchUrl": "/modules/article/search.php?searchkey={{java.encodeURI(key)}}&t=8723,\n{\n    \"charset\": \"gbk\",\n    \"headers\": {\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47\"},\n    \"webView\": true\n}",
+    "weight": 0
+  }
+]
